@@ -1,0 +1,15 @@
+{
+    "bot":{
+        "token":"ADD-YOUR-BOT_TOKEN",
+        "admin":["ADD_ADMIN_ID [INT]"]
+    },
+    "app":{
+        "version":"v1.0.0"
+    },
+    "database":{
+      "host":"ADD_YOUR_HOST_NAME_FOR-POSTGRESQL",
+      "database":"ADD_YOUR_DATABSE_NAME_FOR-POSTGRESQL",
+      "user":"ADD_YOUR_USER_FOR-POSTGRESQL-DATABASE",
+      "password":"ADD_YOUR_PASSWORD_FOR-POSTGRESQL-DATABASE"
+    }
+}
